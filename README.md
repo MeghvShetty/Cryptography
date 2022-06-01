@@ -1,2 +1,2 @@
 # Cryptography
-Learning and implementing cryptography using programer 
+Learning and implementing cryptography using program
